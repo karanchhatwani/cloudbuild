@@ -18,6 +18,3 @@ images:
 options:
   logging: 'NONE'
 
-build:
-  serviceAccount: 225409499817@cloudbuild.gserviceaccount.com
-
